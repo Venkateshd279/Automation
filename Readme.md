@@ -39,7 +39,7 @@ Common actions:
 3. Install PyAutoGUI:
    pip install pyautogui
 
-### Key functionalities 
+#### Key functionalities 
 
 1. Mouse control 
 2. Keyboard control 
@@ -48,6 +48,13 @@ Common actions:
 5. Image recognition 
 
 
-### PyAutoGUI mouse operations 
+#### PyAutoGUI mouse operations 
 
-1. drag, left click, right click, scroll etc
+drag, left click, right click, scroll etc
+
+#### PyAutoGUI Keyboard operations 
+
+Typewrite, Hotkey operations (shortcut keys), single key operations (press anykey work other), hold the key (shift + type)
+
+We use some form fill. 
+
